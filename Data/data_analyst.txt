@@ -1,0 +1,18 @@
+Data Analyst
+
+Required Skills:
+SQL
+Excel
+Python
+Power BI
+Tableau
+Statistics
+Data Cleaning
+Data Visualization
+
+Responsibilities:
+Collect and analyze business data.
+Create dashboards and reports.
+Identify trends and insights.
+Support decision-making through data analysis.
+Prepare presentations for stakeholders.

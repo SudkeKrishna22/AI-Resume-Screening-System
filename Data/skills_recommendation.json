@@ -1,0 +1,14 @@
+{
+    "python": "Strengthen Python fundamentals, OOP, and data structures.",
+    "sql": "Practice joins, window functions, aggregations, and optimization.",
+    "docker": "Learn Docker images, containers, volumes, and Docker Compose.",
+    "aws": "Learn EC2, S3, IAM, and deployment basics.",
+    "kubernetes": "Learn pods, deployments, services, and orchestration.",
+    "tensorflow": "Build and train deep learning models using TensorFlow.",
+    "pytorch": "Practice building neural networks and custom training loops.",
+    "opencv": "Work on image processing and computer vision projects.",
+    "yolo": "Build object detection projects using YOLO.",
+    "nlp": "Learn text preprocessing, embeddings, and transformer models.",
+    "bert": "Understand fine-tuning and inference with BERT models.",
+    "transformers": "Practice Hugging Face pipelines and model training."
+}

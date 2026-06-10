@@ -1,0 +1,20 @@
+NLP Engineer
+
+Required Skills:
+Python
+NLP
+Transformers
+BERT
+GPT
+Hugging Face
+PyTorch
+TensorFlow
+Text Processing
+LLMs
+
+Responsibilities:
+Build natural language processing applications.
+Develop text classification and information extraction systems.
+Fine-tune transformer-based models.
+Work with large language models.
+Evaluate and improve NLP system performance.

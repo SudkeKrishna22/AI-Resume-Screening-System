@@ -1,0 +1,20 @@
+Data Scientist
+
+Required Skills:
+Python
+SQL
+Statistics
+Machine Learning
+Deep Learning
+Data Analysis
+Data Visualization
+Pandas
+NumPy
+Scikit-learn
+
+Responsibilities:
+Analyze large datasets to identify trends and patterns.
+Build predictive machine learning models.
+Perform statistical analysis and hypothesis testing.
+Communicate findings through reports and visualizations.
+Work with stakeholders to solve business problems.

@@ -1,0 +1,16 @@
+python
+sql
+machine learning
+deep learning
+tensorflow
+pytorch
+pandas
+numpy
+statistics
+power bi
+tableau
+aws
+docker
+git
+django
+flask
